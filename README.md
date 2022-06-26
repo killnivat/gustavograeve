@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello, World! 👋
 
-<!--
-**gustavograeve/gustavograeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    🌱 I’m currently learning HTML, CSS3 and JavaScript.
 
-Here are some ideas to get you started:
+    <details>
+        <summary>More about me</summary>
+    <div align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ```js
+    const gustavo = {
+        personal: {
+            fullName: 'Gustavo Graeve',
+            birthDate: '2004-05-09',
+            interests: ['music', 'anime', 'movies','games', 'programming'],
+            motivation: ['learning', 'learning', 'learning', 'learning', 'learning'];
+        }
+    }
+    ```
+    </div>>
+    </details>
+
+</div>
