@@ -1,10 +1,12 @@
 ### Hello, World! 👋
 
 <div align="center">
+
     🌱 I’m currently learning HTML, CSS3 and JavaScript.
 
 <details>
     <summary>More about me</summary>
+
 <div align="left">
 
 ``` js
